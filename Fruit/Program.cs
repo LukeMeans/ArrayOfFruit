@@ -23,7 +23,6 @@ namespace Fruit
             //
             // variables
             //
-            bool validResponse;
             string userResponse;
             Fruit FavoriteFruit;
             Fruit FruitChoice;
